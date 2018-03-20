@@ -1,8 +1,7 @@
 #pragma once
 #include <Windows.h>
 #include <string>
-#include "Definitions.h"
-#include "Functions.h"
+#include "Functions.h" // Replace with the header name that contains the Lua C functions..
 
 bool Breaker;
 std::string PreviousCommand;
